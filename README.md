@@ -1,4 +1,4 @@
-#ABSTRACT
+# ABSTRACT
 
 Accurate and timely detection of road accidents is crucial for enhancing road safety and minimizing potential hazards. In this project, we present an advanced Accident 
 Detection Model based on a state-of-the-art real-time object detection framework. Our model utilizes computer vision techniques to analyze road surveillance videos, identify 
