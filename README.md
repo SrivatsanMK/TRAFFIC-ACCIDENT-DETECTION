@@ -42,7 +42,9 @@ git clone https://github.com/SrivatsanMK/TRAFFIC-ACCIDENT-DETECTION.git
 ```
 
 To install all the packages required to run this python program
-`pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 
 **Note:** This project requires a camera. So make sure you have a connected camera to your device. You can also use a downloaded video if not using a camera.
 
