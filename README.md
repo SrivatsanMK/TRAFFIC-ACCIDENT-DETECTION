@@ -37,8 +37,9 @@ An accident Detection System is designed to detect accidents via video or CCTV f
 ## 4. Getting Started - How to use it?
 
 ### Clone this repository
-
-`https://github.com/krishrustagi/Accident-Detection-System.git`
+```bash
+git clone https://github.com/SrivatsanMK/TRAFFIC-ACCIDENT-DETECTION.git
+```
 
 To install all the packages required to run this python program
 `pip install -r requirements.txt`
